@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1297163681476
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1297163881230
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1297163885630
+started,bundle,org.eclipse.pde.core,3.5.100.v20090821,"org.eclipse.pde.core",1297163895986
+started,bundle,org.eclipse.pde,3.4.100.v200909170800,"org.eclipse.pde",1297163896076
+error,log,,,"VariableBlock: Classpath variable with null value: JRE_SRC",1297163896393
+error,log,,,"VariableBlock: Classpath variable with null value: JRE_SRCROOT",1297163896719
+error,log,,,"VariableBlock: Classpath variable with null value: JRE_LIB",1297163896727
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1297163918068
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.refresh",1297163923457
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1297163929272
+executed,command,org.eclipse.ui.ide,3.5.1.M20090826-0800,"org.eclipse.ui.project.cleanAction",1297163936198
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1297163937813
+executed,command,org.eclipse.ui.ide,3.5.1.M20090826-0800,"org.eclipse.ui.project.closeProject",1297163949337
+closed,editor,org.eclipse.jdt.ui,3.5.1.r351_v20090821-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1297163951243
+closed,editor,org.eclipse.jdt.ui,3.5.1.r351_v20090821-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1297163951669
+executed,command,org.eclipse.ui.ide,3.5.1.M20090826-0800,"org.eclipse.ui.project.closeProject",1297163954521
+closed,editor,org.eclipse.jdt.ui,3.5.1.r351_v20090821-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1297163956305
+closed,editor,org.eclipse.jdt.ui,3.5.1.r351_v20090821-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1297163957846
+activated,view,org.eclipse.ui.ide,3.5.1.M20090826-0800,"org.eclipse.ui.views.ProblemView",1297163959586
+activated,view,org.eclipse.jdt.ui,3.5.1.r351_v20090821-0800,"org.eclipse.jdt.ui.PackageExplorer",1297163965432
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1297163969727
+started,bundle,org.eclipse.jdt.apt.ui,3.3.200.v20090528-1135,"org.eclipse.jdt.apt.ui",1297163979568
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.properties",1297163999723
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1297164000620

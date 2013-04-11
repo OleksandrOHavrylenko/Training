@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+java.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1297164363311
+java.specification.version,sysinfo,,,"1.6",1297164363311
+java.vendor,sysinfo,,,"Sun Microsystems Inc.",1297164363311
+java.version,sysinfo,,,"1.6.0_18",1297164363311
+java.vm.info,sysinfo,,,"mixed mode, sharing",1297164363311
+java.vm.name,sysinfo,,,"OpenJDK Client VM",1297164363311
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1297164363311
+java.vm.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1297164363311
+java.vm.specification.version,sysinfo,,,"1.0",1297164363311
+java.vm.vendor,sysinfo,,,"Sun Microsystems Inc.",1297164363311
+java.vm.version,sysinfo,,,"16.0-b13",1297164363311
+started,bundle,org.eclipse.jst.common.project.facet.core,1.4.1.v200908111817,"org.eclipse.jst.common.project.facet.core",1297164363572
+started,bundle,org.eclipse.mylyn.monitor.ui,3.2.2.v20090912-0400-e3x,"org.eclipse.mylyn.monitor.ui",1297164364359
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.save",1297164371083
+activated,view,org.eclipse.jdt.ui,3.5.1.r351_v20090821-0800,"org.eclipse.jdt.ui.PackageExplorer",1297164374129
+started,bundle,org.eclipse.compare,3.5.0.I20090514-0808,"org.eclipse.compare",1297164378505
+started,bundle,org.eclipse.debug.ui,3.5.1.v20090811_r351,"org.eclipse.debug.ui",1297164380100
+started,bundle,org.eclipse.jdt.debug,3.5.0.v20090526,"org.eclipse.jdt.debug",1297164381729
+started,bundle,org.eclipse.jdt.debug.ui,3.4.1.v20090811_r351,"org.eclipse.jdt.debug.ui",1297164381887
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1297164383297
+executed,command,org.eclipse.jdt.debug.ui,3.4.1.v20090811_r351,"org.eclipse.jdt.debug.ui.localJavaShortcut.run",1297164385940
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1297164386839
+opened,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1297164388953
+activated,editor,org.eclipse.jdt.ui,3.5.1.r351_v20090821-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1297165095715
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1297165096659
