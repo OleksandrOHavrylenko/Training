@@ -1,1 +1,16 @@
-INDEX VERSION 1.126+C:\aaa\EclipseProjects\JVA-004_Java_Basics\labs\.metadata\.plugins\org.eclipse.jdt.core
+INDEX VERSION 1.126+D:\Training\Java2\labs\.metadata\.plugins\org.eclipse.jdt.core
+3536727246.index
+2171411646.index
+85620488.index
+2666893060.index
+731911899.index
+3100068487.index
+3892601991.index
+3195890228.index
+56673951.index
+966814159.index
+1428821948.index
+3707695429.index
+1731791533.index
+2329698757.index
+1730980210.index
