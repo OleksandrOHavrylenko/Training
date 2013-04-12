@@ -281,3 +281,13 @@ java.lang.InterruptedException
 
 !ENTRY org.eclipse.osgi 2 1 2013-04-11 23:51:30.125
 !MESSAGE NLS unused message: CacheManager_CannotLoadNonUrlLocation in: org.eclipse.equinox.internal.p2.repository.messages
+!SESSION 2013-04-12 08:22:59.281 -----------------------------------------------
+eclipse.buildId=M20120914-1800
+java.version=1.7.0_07
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=ru_RU
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.equinox.security 1 0 2013-04-12 08:29:07.859
+!MESSAGE New keyring password generated. 
